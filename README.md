@@ -1,0 +1,2 @@
+# ItAdminOdoo
+Repositorio para ItAdminOdoo
